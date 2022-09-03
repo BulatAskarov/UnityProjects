@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4725129321565507065
+  m_GuidHigh: 2392321410458388874
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5315180393735619889
+      m_GuidHigh: 4849886179235861670
+    m_SerializedTextureGuid:
+      m_GuidLow: 11192832194534567921
+      m_GuidHigh: 15922662877648168361
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: PlanePatternDot
+    m_Texture: {fileID: 2800000, guid: 29c9eff1ed949b54a9a5847c86a9f8dc, type: 3}
