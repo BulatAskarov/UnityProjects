@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5609786695826949540
+  m_GuidHigh: 5363776511097687950
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4804416665703053213
+      m_GuidHigh: 229776539941575315
+    m_SerializedTextureGuid:
+      m_GuidLow: 15943871363461560068
+      m_GuidHigh: 16958233565764574121
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: triangles
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4829580586744664243
+      m_GuidHigh: 2932720469924432309
+    m_SerializedTextureGuid:
+      m_GuidLow: 1847674810929635252
+      m_GuidHigh: 16165573423606868360
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: itis
+    m_Texture: {fileID: 0}
